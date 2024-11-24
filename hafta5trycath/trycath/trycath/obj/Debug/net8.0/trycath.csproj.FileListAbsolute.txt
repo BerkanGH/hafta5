@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\bin\Debug\net8.0\trycath.exe
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\bin\Debug\net8.0\trycath.deps.json
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\bin\Debug\net8.0\trycath.runtimeconfig.json
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\bin\Debug\net8.0\trycath.dll
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\bin\Debug\net8.0\trycath.pdb
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\obj\Debug\net8.0\trycath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\obj\Debug\net8.0\trycath.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\obj\Debug\net8.0\trycath.AssemblyInfo.cs
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\obj\Debug\net8.0\trycath.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\obj\Debug\net8.0\trycath.dll
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\obj\Debug\net8.0\refint\trycath.dll
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\obj\Debug\net8.0\trycath.pdb
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\obj\Debug\net8.0\trycath.genruntimeconfig.cache
+C:\Users\User\Desktop\hafta5trycath\trycath\trycath\obj\Debug\net8.0\ref\trycath.dll
